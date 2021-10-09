@@ -9,6 +9,8 @@
 * [GitHub](https://github.com/around30pt)
   * [ソーシャル・アイデンティティ作業部会](https://github.com/around30pt/social-id)
 
+言語に関しては，原則として日本語を使用します。
+
 ## 概要
 真空 1997 年生
 
